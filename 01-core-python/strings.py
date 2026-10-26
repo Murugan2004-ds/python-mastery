@@ -1,4 +1,4 @@
-text = " Hello,AI Engineer "
+text = " Hello, AI Engineer "
 
 # clean the text
 print(text.strip())
